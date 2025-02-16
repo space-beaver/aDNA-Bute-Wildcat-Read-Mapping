@@ -1,0 +1,9 @@
+091SepRun 091SepRun_R1_001.fastq 091SepRun_R2_001.fastq
+091x 091x_R1_001.fastq 091x_R2_001.fastq
+M01 M01_R1_001.fastq M01_R2_001.fastq
+M02 M02_R1_001.fastq M02_R2_001.fastq
+M03 M03_R1_001.fastq M03_R2_001.fastq
+M04 M04_R1_001.fastq M04_R2_001.fastq
+MM091 MM091_R1_001.fastq MM091_R2_001.fastq
+MM091fs MM091fs_R1_001.fastq MM091fs_R2_001.fastq
+  
